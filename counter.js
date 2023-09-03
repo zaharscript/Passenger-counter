@@ -33,10 +33,13 @@ let saveCount = document.getElementById("save")
 
 
 function save(){
+     // this is alternative way to produce result by push increment value to empty array
     // let newValue = count
     // myCounter.push(newValue)
     // saveCount.innerText = myCounter.join("-")
     // console.log(countRecord)
+    //-------------------------------------
+    // below method is simpler one.
     let psgr = count  + " - "
     saveCount.textContent += psgr 
     
