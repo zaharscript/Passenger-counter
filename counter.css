@@ -92,3 +92,8 @@ button {
       -1px 1px 0 #000,
        1px 1px 0 #000;
 }
+
+.people{
+    font-size: 20em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
